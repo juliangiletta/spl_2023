@@ -1,0 +1,35 @@
+16:35:15 **** Auto Build of configuration Debug for project lab_gpio_inout_sdk ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../lab_gpio_in_out.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"lab_gpio_in_out.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../lab_gpio_inout_sdk_bsp/ps7_cortexa9_0/include -MMD -MP -MF"lab_gpio_in_out.d" -MT"lab_gpio_in_out.o" -o "lab_gpio_in_out.o" "../lab_gpio_in_out.c"
+../lab_gpio_in_out.c: In function 'main':
+../lab_gpio_in_out.c:94:11: warning: this 'if' clause does not guard... [-Wmisleading-indentation]
+           if(sw_check == 0xFF)
+           ^~
+../lab_gpio_in_out.c:96:5: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the 'if'
+     for (i=0; i<9999999; i++); // delay loop
+     ^~~
+../lab_gpio_in_out.c:42:17: warning: unused variable 'GPIOInstance_Ptr' [-Wunused-variable]
+    static XGpio GPIOInstance_Ptr;
+                 ^~~~~~~~~~~~~~~~
+At top level:
+../lab_gpio_in_out.c:42:17: warning: 'GPIOInstance_Ptr' defined but not used [-Wunused-variable]
+'Finished building: ../lab_gpio_in_out.c'
+' '
+'Building target: lab_gpio_inout_sdk.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../lab_gpio_inout_sdk_bsp/ps7_cortexa9_0/lib -o "lab_gpio_inout_sdk.elf"  ./lab_gpio_in_out.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: lab_gpio_inout_sdk.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size lab_gpio_inout_sdk.elf  |tee "lab_gpio_inout_sdk.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  30716	   1192	  22632	  54540	   d50c	lab_gpio_inout_sdk.elf
+'Finished building: lab_gpio_inout_sdk.elf.size'
+' '
+
+16:35:18 Build Finished (took 2s.451ms)
+

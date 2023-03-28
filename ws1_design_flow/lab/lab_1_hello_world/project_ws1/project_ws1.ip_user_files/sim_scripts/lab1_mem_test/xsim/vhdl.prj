@@ -1,0 +1,4 @@
+vhdl xil_defaultlib  \
+"../../../bd/lab1_mem_test/sim/lab1_mem_test.vhd" \
+
+nosort

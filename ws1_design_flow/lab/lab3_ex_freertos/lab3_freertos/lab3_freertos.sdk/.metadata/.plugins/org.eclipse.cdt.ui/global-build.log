@@ -1,0 +1,513 @@
+16:54:18 **** Build of project freertos10_xilinx_bsp_0 ****
+make -k all 
+"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src"
+make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src"
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_0/src"
+make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_4/src"
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/emacps_v3_8/src"
+make -C ps7_cortexa9_0/libsrc/emacps_v3_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/freertos10_xilinx_v1_2/src"
+make -C ps7_cortexa9_0/libsrc/freertos10_xilinx_v1_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"include"
+"Running Make include in ps7_cortexa9_0/libsrc/gpiops_v3_4/src"
+make -C ps7_cortexa9_0/libsrc/gpiops_v3_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/gpio_v4_3/src"
+make -C ps7_cortexa9_0/libsrc/gpio_v4_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/qspips_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/qspips_v3_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/scugic_v3_10/src"
+make -C ps7_cortexa9_0/libsrc/scugic_v3_10/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/sdps_v3_6/src"
+make -C ps7_cortexa9_0/libsrc/sdps_v3_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/ttcps_v3_7/src"
+make -C ps7_cortexa9_0/libsrc/ttcps_v3_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_7/src"
+make -C ps7_cortexa9_0/libsrc/uartps_v3_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/usbps_v2_4/src"
+make -C ps7_cortexa9_0/libsrc/usbps_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_3/src"
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make libs in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src"
+make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling coresightps_dcc"
+arm-none-eabi-ar: creating ../../../lib/libxil.a
+"Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src"
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling cpu_cortexa9"
+"Running Make libs in ps7_cortexa9_0/libsrc/ddrps_v1_0/src"
+make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling ddrps"
+"Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling devcfg"
+"Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_4/src"
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling dmaps"
+"Running Make libs in ps7_cortexa9_0/libsrc/emacps_v3_8/src"
+make -C ps7_cortexa9_0/libsrc/emacps_v3_8/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling emacps"
+"Running Make libs in ps7_cortexa9_0/libsrc/freertos10_xilinx_v1_2/src"
+make -C ps7_cortexa9_0/libsrc/freertos10_xilinx_v1_2/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling standalone"
+"Compiling FreeRTOS"
+arm-none-eabi-ar: creating ../../../lib/libfreertos.a
+"Running Make libs in ps7_cortexa9_0/libsrc/gpiops_v3_4/src"
+make -C ps7_cortexa9_0/libsrc/gpiops_v3_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling gpiops"
+"Running Make libs in ps7_cortexa9_0/libsrc/gpio_v4_3/src"
+make -C ps7_cortexa9_0/libsrc/gpio_v4_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling gpio"
+"Running Make libs in ps7_cortexa9_0/libsrc/qspips_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/qspips_v3_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling qspips"
+"Running Make libs in ps7_cortexa9_0/libsrc/scugic_v3_10/src"
+make -C ps7_cortexa9_0/libsrc/scugic_v3_10/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling scugic"
+"Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling scutimer"
+"Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling scuwdt"
+"Running Make libs in ps7_cortexa9_0/libsrc/sdps_v3_6/src"
+make -C ps7_cortexa9_0/libsrc/sdps_v3_6/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling sdps"
+"Running Make libs in ps7_cortexa9_0/libsrc/ttcps_v3_7/src"
+make -C ps7_cortexa9_0/libsrc/ttcps_v3_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling ttcps"
+"Running Make libs in ps7_cortexa9_0/libsrc/uartps_v3_7/src"
+make -C ps7_cortexa9_0/libsrc/uartps_v3_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling uartps"
+"Running Make libs in ps7_cortexa9_0/libsrc/usbps_v2_4/src"
+make -C ps7_cortexa9_0/libsrc/usbps_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling usbps"
+"Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_3/src"
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling xadcps"
+'Finished building libraries'
+16:55:31 **** Build of configuration Debug for project led_buttons ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/freertos_hello_world.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/freertos_hello_world.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../freertos10_xilinx_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/freertos_hello_world.d" -MT"src/freertos_hello_world.o" -o "src/freertos_hello_world.o" "../src/freertos_hello_world.c"
+'Finished building: ../src/freertos_hello_world.c'
+' '
+'Building target: led_buttons.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../freertos10_xilinx_bsp_0/ps7_cortexa9_0/lib -o "led_buttons.elf"  ./src/freertos_hello_world.o   -Wl,--start-group,-lxil,-lfreertos,-lgcc,-lc,--end-group
+'Finished building target: led_buttons.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size led_buttons.elf  |tee "led_buttons.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  89624	   3380	  89424	 182428	  2c89c	led_buttons.elf
+'Finished building: led_buttons.elf.size'
+' '
+17:42:47 **** Auto Build of configuration Debug for project led_buttons ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/freertos_hello_world.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/freertos_hello_world.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../freertos10_xilinx_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/freertos_hello_world.d" -MT"src/freertos_hello_world.o" -o "src/freertos_hello_world.o" "../src/freertos_hello_world.c"
+'Finished building: ../src/freertos_hello_world.c'
+' '
+'Building target: led_buttons.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../freertos10_xilinx_bsp_0/ps7_cortexa9_0/lib -o "led_buttons.elf"  ./src/freertos_hello_world.o   -Wl,--start-group,-lxil,-lfreertos,-lgcc,-lc,--end-group
+'Finished building target: led_buttons.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size led_buttons.elf  |tee "led_buttons.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  89624	   3380	  89424	 182428	  2c89c	led_buttons.elf
+'Finished building: led_buttons.elf.size'
+' '
+17:42:56 **** Incremental Build of configuration Debug for project led_buttons ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+17:44:27 **** Auto Build of configuration Debug for project led_buttons ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/freertos_hello_world.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/freertos_hello_world.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../freertos10_xilinx_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/freertos_hello_world.d" -MT"src/freertos_hello_world.o" -o "src/freertos_hello_world.o" "../src/freertos_hello_world.c"
+'Finished building: ../src/freertos_hello_world.c'
+' '
+'Building target: led_buttons.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../freertos10_xilinx_bsp_0/ps7_cortexa9_0/lib -o "led_buttons.elf"  ./src/freertos_hello_world.o   -Wl,--start-group,-lxil,-lfreertos,-lgcc,-lc,--end-group
+'Finished building target: led_buttons.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size led_buttons.elf  |tee "led_buttons.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  89624	   3380	  89424	 182428	  2c89c	led_buttons.elf
+'Finished building: led_buttons.elf.size'
+' '
+17:46:28 **** Auto Build of configuration Debug for project led_buttons ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/freertos_hello_world.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/freertos_hello_world.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../freertos10_xilinx_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/freertos_hello_world.d" -MT"src/freertos_hello_world.o" -o "src/freertos_hello_world.o" "../src/freertos_hello_world.c"
+'Finished building: ../src/freertos_hello_world.c'
+' '
+'Building target: led_buttons.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../freertos10_xilinx_bsp_0/ps7_cortexa9_0/lib -o "led_buttons.elf"  ./src/freertos_hello_world.o   -Wl,--start-group,-lxil,-lfreertos,-lgcc,-lc,--end-group
+'Finished building target: led_buttons.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size led_buttons.elf  |tee "led_buttons.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  89624	   3380	  89440	 182444	  2c8ac	led_buttons.elf
+'Finished building: led_buttons.elf.size'
+' '
+17:46:52 **** Auto Build of configuration Debug for project led_buttons ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/freertos_hello_world.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/freertos_hello_world.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../freertos10_xilinx_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/freertos_hello_world.d" -MT"src/freertos_hello_world.o" -o "src/freertos_hello_world.o" "../src/freertos_hello_world.c"
+'Finished building: ../src/freertos_hello_world.c'
+' '
+'Building target: led_buttons.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../freertos10_xilinx_bsp_0/ps7_cortexa9_0/lib -o "led_buttons.elf"  ./src/freertos_hello_world.o   -Wl,--start-group,-lxil,-lfreertos,-lgcc,-lc,--end-group
+'Finished building target: led_buttons.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size led_buttons.elf  |tee "led_buttons.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  90752	   3400	  89440	 183592	  2cd28	led_buttons.elf
+'Finished building: led_buttons.elf.size'
+' '
+17:47:23 **** Auto Build of configuration Debug for project led_buttons ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/freertos_hello_world.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/freertos_hello_world.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../freertos10_xilinx_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/freertos_hello_world.d" -MT"src/freertos_hello_world.o" -o "src/freertos_hello_world.o" "../src/freertos_hello_world.c"
+'Finished building: ../src/freertos_hello_world.c'
+' '
+'Building target: led_buttons.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../freertos10_xilinx_bsp_0/ps7_cortexa9_0/lib -o "led_buttons.elf"  ./src/freertos_hello_world.o   -Wl,--start-group,-lxil,-lfreertos,-lgcc,-lc,--end-group
+'Finished building target: led_buttons.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size led_buttons.elf  |tee "led_buttons.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  90752	   3400	  89440	 183592	  2cd28	led_buttons.elf
+'Finished building: led_buttons.elf.size'
+' '
+17:48:52 **** Auto Build of configuration Debug for project led_buttons ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/freertos_hello_world.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/freertos_hello_world.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../freertos10_xilinx_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/freertos_hello_world.d" -MT"src/freertos_hello_world.o" -o "src/freertos_hello_world.o" "../src/freertos_hello_world.c"
+'Finished building: ../src/freertos_hello_world.c'
+' '
+'Building target: led_buttons.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../freertos10_xilinx_bsp_0/ps7_cortexa9_0/lib -o "led_buttons.elf"  ./src/freertos_hello_world.o   -Wl,--start-group,-lxil,-lfreertos,-lgcc,-lc,--end-group
+'Finished building target: led_buttons.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size led_buttons.elf  |tee "led_buttons.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  90752	   3400	  89440	 183592	  2cd28	led_buttons.elf
+'Finished building: led_buttons.elf.size'
+' '
+17:49:30 **** Auto Build of configuration Debug for project led_buttons ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/freertos_hello_world.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/freertos_hello_world.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../freertos10_xilinx_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/freertos_hello_world.d" -MT"src/freertos_hello_world.o" -o "src/freertos_hello_world.o" "../src/freertos_hello_world.c"
+'Finished building: ../src/freertos_hello_world.c'
+' '
+'Building target: led_buttons.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../freertos10_xilinx_bsp_0/ps7_cortexa9_0/lib -o "led_buttons.elf"  ./src/freertos_hello_world.o   -Wl,--start-group,-lxil,-lfreertos,-lgcc,-lc,--end-group
+'Finished building target: led_buttons.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size led_buttons.elf  |tee "led_buttons.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  90816	   3400	  89440	 183656	  2cd68	led_buttons.elf
+'Finished building: led_buttons.elf.size'
+' '
+17:50:38 **** Auto Build of configuration Debug for project led_buttons ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/freertos_hello_world.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/freertos_hello_world.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../freertos10_xilinx_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/freertos_hello_world.d" -MT"src/freertos_hello_world.o" -o "src/freertos_hello_world.o" "../src/freertos_hello_world.c"
+../src/freertos_hello_world.c: In function 'main':
+../src/freertos_hello_world.c:133:19: warning: unused variable 'x10seconds' [-Wunused-variable]
+  const TickType_t x10seconds = pdMS_TO_TICKS( DELAY_10_SECONDS );
+                   ^~~~~~~~~~
+../src/freertos_hello_world.c: At top level:
+../src/freertos_hello_world.c:117:13: warning: 'vTimerCallback' declared 'static' but never defined [-Wunused-function]
+ static void vTimerCallback( TimerHandle_t pxTimer );
+             ^~~~~~~~~~~~~~
+../src/freertos_hello_world.c:125:22: warning: 'xTimer' defined but not used [-Wunused-variable]
+ static TimerHandle_t xTimer = NULL;
+                      ^~~~~~
+'Finished building: ../src/freertos_hello_world.c'
+' '
+'Building target: led_buttons.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../freertos10_xilinx_bsp_0/ps7_cortexa9_0/lib -o "led_buttons.elf"  ./src/freertos_hello_world.o   -Wl,--start-group,-lxil,-lfreertos,-lgcc,-lc,--end-group
+'Finished building target: led_buttons.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size led_buttons.elf  |tee "led_buttons.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  90416	   3400	  89440	 183256	  2cbd8	led_buttons.elf
+'Finished building: led_buttons.elf.size'
+' '
+17:50:58 **** Incremental Build of configuration Debug for project led_buttons ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+17:51:50 **** Incremental Build of configuration Debug for project led_buttons ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+17:52:40 **** Incremental Build of configuration Debug for project led_buttons ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+17:56:47 **** Incremental Build of configuration Debug for project led_buttons ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+17:57:30 **** Auto Build of configuration Debug for project led_buttons ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/freertos_hello_world.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/freertos_hello_world.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../freertos10_xilinx_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/freertos_hello_world.d" -MT"src/freertos_hello_world.o" -o "src/freertos_hello_world.o" "../src/freertos_hello_world.c"
+../src/freertos_hello_world.c: In function 'main':
+../src/freertos_hello_world.c:133:19: warning: unused variable 'x10seconds' [-Wunused-variable]
+  const TickType_t x10seconds = pdMS_TO_TICKS( DELAY_10_SECONDS );
+                   ^~~~~~~~~~
+At top level:
+../src/freertos_hello_world.c:125:22: warning: 'xTimer' defined but not used [-Wunused-variable]
+ static TimerHandle_t xTimer = NULL;
+                      ^~~~~~
+'Finished building: ../src/freertos_hello_world.c'
+' '
+'Building target: led_buttons.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../freertos10_xilinx_bsp_0/ps7_cortexa9_0/lib -o "led_buttons.elf"  ./src/freertos_hello_world.o   -Wl,--start-group,-lxil,-lfreertos,-lgcc,-lc,--end-group
+'Finished building target: led_buttons.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size led_buttons.elf  |tee "led_buttons.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  90416	   3400	  89440	 183256	  2cbd8	led_buttons.elf
+'Finished building: led_buttons.elf.size'
+' '
+17:57:38 **** Auto Build of configuration Debug for project led_buttons ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/freertos_hello_world.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/freertos_hello_world.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../freertos10_xilinx_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/freertos_hello_world.d" -MT"src/freertos_hello_world.o" -o "src/freertos_hello_world.o" "../src/freertos_hello_world.c"
+../src/freertos_hello_world.c: In function 'main':
+../src/freertos_hello_world.c:133:19: warning: unused variable 'x10seconds' [-Wunused-variable]
+  const TickType_t x10seconds = pdMS_TO_TICKS( DELAY_10_SECONDS );
+                   ^~~~~~~~~~
+'Finished building: ../src/freertos_hello_world.c'
+' '
+'Building target: led_buttons.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../freertos10_xilinx_bsp_0/ps7_cortexa9_0/lib -o "led_buttons.elf"  ./src/freertos_hello_world.o   -Wl,--start-group,-lxil,-lfreertos,-lgcc,-lc,--end-group
+'Finished building target: led_buttons.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size led_buttons.elf  |tee "led_buttons.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  90416	   3400	  89440	 183256	  2cbd8	led_buttons.elf
+'Finished building: led_buttons.elf.size'
+' '
+17:57:45 **** Auto Build of configuration Debug for project led_buttons ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/freertos_hello_world.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/freertos_hello_world.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../freertos10_xilinx_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/freertos_hello_world.d" -MT"src/freertos_hello_world.o" -o "src/freertos_hello_world.o" "../src/freertos_hello_world.c"
+'Finished building: ../src/freertos_hello_world.c'
+' '
+'Building target: led_buttons.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../freertos10_xilinx_bsp_0/ps7_cortexa9_0/lib -o "led_buttons.elf"  ./src/freertos_hello_world.o   -Wl,--start-group,-lxil,-lfreertos,-lgcc,-lc,--end-group
+'Finished building target: led_buttons.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size led_buttons.elf  |tee "led_buttons.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  90416	   3400	  89440	 183256	  2cbd8	led_buttons.elf
+'Finished building: led_buttons.elf.size'
+' '
+17:57:57 **** Incremental Build of configuration Debug for project led_buttons ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+17:58:33 **** Incremental Build of configuration Debug for project led_buttons ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+17:59:32 **** Auto Build of configuration Debug for project led_buttons ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/freertos_hello_world.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/freertos_hello_world.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../freertos10_xilinx_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/freertos_hello_world.d" -MT"src/freertos_hello_world.o" -o "src/freertos_hello_world.o" "../src/freertos_hello_world.c"
+'Finished building: ../src/freertos_hello_world.c'
+' '
+'Building target: led_buttons.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../freertos10_xilinx_bsp_0/ps7_cortexa9_0/lib -o "led_buttons.elf"  ./src/freertos_hello_world.o   -Wl,--start-group,-lxil,-lfreertos,-lgcc,-lc,--end-group
+'Finished building target: led_buttons.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size led_buttons.elf  |tee "led_buttons.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  90416	   3400	  89440	 183256	  2cbd8	led_buttons.elf
+'Finished building: led_buttons.elf.size'
+' '
+17:59:44 **** Incremental Build of configuration Debug for project led_buttons ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+18:00:14 **** Incremental Build of configuration Debug for project led_buttons ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+18:06:14 **** Auto Build of configuration Debug for project led_buttons ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/freertos_hello_world.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/freertos_hello_world.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../freertos10_xilinx_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/freertos_hello_world.d" -MT"src/freertos_hello_world.o" -o "src/freertos_hello_world.o" "../src/freertos_hello_world.c"
+'Finished building: ../src/freertos_hello_world.c'
+' '
+'Building target: led_buttons.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../freertos10_xilinx_bsp_0/ps7_cortexa9_0/lib -o "led_buttons.elf"  ./src/freertos_hello_world.o   -Wl,--start-group,-lxil,-lfreertos,-lgcc,-lc,--end-group
+'Finished building target: led_buttons.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size led_buttons.elf  |tee "led_buttons.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  90416	   3400	  89440	 183256	  2cbd8	led_buttons.elf
+'Finished building: led_buttons.elf.size'
+' '
+18:06:26 **** Incremental Build of configuration Debug for project led_buttons ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+18:06:57 **** Incremental Build of configuration Debug for project led_buttons ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+18:07:29 **** Auto Build of configuration Debug for project led_buttons ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/freertos_hello_world.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/freertos_hello_world.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../freertos10_xilinx_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/freertos_hello_world.d" -MT"src/freertos_hello_world.o" -o "src/freertos_hello_world.o" "../src/freertos_hello_world.c"
+../src/freertos_hello_world.c: In function 'prvTxTask':
+../src/freertos_hello_world.c:191:31: error: 'gpio' undeclared (first use in this function); did you mean 'XGpio'?
+   value = XGpio_DiscreteRead(&gpio, 1);
+                               ^~~~
+                               XGpio
+../src/freertos_hello_world.c:191:31: note: each undeclared identifier is reported only once for each function it appears in
+../src/freertos_hello_world.c: In function 'prvRxTask':
+../src/freertos_hello_world.c:221:24: error: 'gpio' undeclared (first use in this function); did you mean 'XGpio'?
+   XGpio_DiscreteWrite(&gpio, 2, value);
+                        ^~~~
+                        XGpio
+make: *** [src/subdir.mk:23: src/freertos_hello_world.o] Error 1
+18:07:36 **** Incremental Build of configuration Debug for project led_buttons ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/freertos_hello_world.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/freertos_hello_world.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../freertos10_xilinx_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/freertos_hello_world.d" -MT"src/freertos_hello_world.o" -o "src/freertos_hello_world.o" "../src/freertos_hello_world.c"
+../src/freertos_hello_world.c: In function 'prvTxTask':
+../src/freertos_hello_world.c:191:31: error: 'gpio' undeclared (first use in this function); did you mean 'XGpio'?
+   value = XGpio_DiscreteRead(&gpio, 1);
+                               ^~~~
+                               XGpio
+../src/freertos_hello_world.c:191:31: note: each undeclared identifier is reported only once for each function it appears in
+../src/freertos_hello_world.c: In function 'prvRxTask':
+../src/freertos_hello_world.c:221:24: error: 'gpio' undeclared (first use in this function); did you mean 'XGpio'?
+   XGpio_DiscreteWrite(&gpio, 2, value);
+                        ^~~~
+                        XGpio
+make: *** [src/subdir.mk:23: src/freertos_hello_world.o] Error 1
+18:07:57 **** Auto Build of configuration Debug for project led_buttons ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/freertos_hello_world.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/freertos_hello_world.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../freertos10_xilinx_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/freertos_hello_world.d" -MT"src/freertos_hello_world.o" -o "src/freertos_hello_world.o" "../src/freertos_hello_world.c"
+'Finished building: ../src/freertos_hello_world.c'
+' '
+'Building target: led_buttons.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../freertos10_xilinx_bsp_0/ps7_cortexa9_0/lib -o "led_buttons.elf"  ./src/freertos_hello_world.o   -Wl,--start-group,-lxil,-lfreertos,-lgcc,-lc,--end-group
+'Finished building target: led_buttons.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size led_buttons.elf  |tee "led_buttons.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  90416	   3400	  89440	 183256	  2cbd8	led_buttons.elf
+'Finished building: led_buttons.elf.size'
+' '

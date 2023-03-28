@@ -1,0 +1,357 @@
+16:17:47 **** Build of project lab_gpio_inout_sdk_bsp ****
+make -k all 
+"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src"
+make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src"
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_0/src"
+make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_4/src"
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/gpiops_v3_4/src"
+make -C ps7_cortexa9_0/libsrc/gpiops_v3_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/gpio_v4_3/src"
+make -C ps7_cortexa9_0/libsrc/gpio_v4_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/scugic_v3_10/src"
+make -C ps7_cortexa9_0/libsrc/scugic_v3_10/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/standalone_v6_8/src"
+make -C ps7_cortexa9_0/libsrc/standalone_v6_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_7/src"
+make -C ps7_cortexa9_0/libsrc/uartps_v3_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_3/src"
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make libs in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src"
+make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling coresightps_dcc"
+arm-none-eabi-ar: creating ../../../lib/libxil.a
+"Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src"
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling cpu_cortexa9"
+"Running Make libs in ps7_cortexa9_0/libsrc/ddrps_v1_0/src"
+make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling ddrps"
+"Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling devcfg"
+"Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_4/src"
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling dmaps"
+"Running Make libs in ps7_cortexa9_0/libsrc/gpiops_v3_4/src"
+make -C ps7_cortexa9_0/libsrc/gpiops_v3_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling gpiops"
+"Running Make libs in ps7_cortexa9_0/libsrc/gpio_v4_3/src"
+make -C ps7_cortexa9_0/libsrc/gpio_v4_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling gpio"
+"Running Make libs in ps7_cortexa9_0/libsrc/scugic_v3_10/src"
+make -C ps7_cortexa9_0/libsrc/scugic_v3_10/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling scugic"
+"Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling scutimer"
+"Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling scuwdt"
+"Running Make libs in ps7_cortexa9_0/libsrc/standalone_v6_8/src"
+make -C ps7_cortexa9_0/libsrc/standalone_v6_8/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling standalone"
+In file included from usleep.c:56:0:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from xil_sleeptimer.c:51:0:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from xtime_l.c:49:0:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from sleep.c:53:0:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+"Running Make libs in ps7_cortexa9_0/libsrc/uartps_v3_7/src"
+make -C ps7_cortexa9_0/libsrc/uartps_v3_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling uartps"
+"Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_3/src"
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling xadcps"
+'Finished building libraries'
+
+**** Build of configuration Debug for project lab_gpio_inout_sdk ****
+
+Nothing to build for project lab_gpio_inout_sdk
+16:29:18 **** Auto Build of configuration Debug for project lab_gpio_inout_sdk ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../lab_gpio_in_out.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"lab_gpio_in_out.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../lab_gpio_inout_sdk_bsp/ps7_cortexa9_0/include -MMD -MP -MF"lab_gpio_in_out.d" -MT"lab_gpio_in_out.o" -o "lab_gpio_in_out.o" "../lab_gpio_in_out.c"
+../lab_gpio_in_out.c: In function 'main':
+../lab_gpio_in_out.c:52:5: warning: trigraph ??( ignored, use -trigraphs to enable [-Wtrigraphs]
+    ???(&sw, XPAR_BOARD_SW_8B_DEVICE_ID);
+      
+../lab_gpio_in_out.c:52:4: error: expected expression before '?' token
+    ???(&sw, XPAR_BOARD_SW_8B_DEVICE_ID);
+    ^
+../lab_gpio_in_out.c:52:11: warning: left-hand operand of comma expression has no effect [-Wunused-value]
+    ???(&sw, XPAR_BOARD_SW_8B_DEVICE_ID);
+           ^
+../lab_gpio_in_out.c:55:5: warning: trigraph ??( ignored, use -trigraphs to enable [-Wtrigraphs]
+    ???(&???, XPAR_BOARD_LEDS_8B_DEVICE_ID);
+      
+../lab_gpio_in_out.c:55:4: error: expected expression before '?' token
+    ???(&???, XPAR_BOARD_LEDS_8B_DEVICE_ID);
+    ^
+../lab_gpio_in_out.c:55:12: warning: left-hand operand of comma expression has no effect [-Wunused-value]
+    ???(&???, XPAR_BOARD_LEDS_8B_DEVICE_ID);
+            ^
+../lab_gpio_in_out.c:85:36: error: expected expression before '?' token
+     sw_check = XGpio_DiscreteRead(&???, 1);
+                                    ^
+../lab_gpio_in_out.c:85:39: warning: left-hand operand of comma expression has no effect [-Wunused-value]
+     sw_check = XGpio_DiscreteRead(&???, 1);
+                                       ^
+../lab_gpio_in_out.c:85:16: error: too few arguments to function 'XGpio_DiscreteRead'
+     sw_check = XGpio_DiscreteRead(&???, 1);
+                ^~~~~~~~~~~~~~~~~~
+In file included from ../lab_gpio_in_out.c:29:0:
+../../lab_gpio_inout_sdk_bsp/ps7_cortexa9_0/include/xgpio.h:179:5: note: declared here
+ u32 XGpio_DiscreteRead(XGpio *InstancePtr, unsigned Channel);
+     ^~~~~~~~~~~~~~~~~~
+../lab_gpio_in_out.c:87:26: error: expected expression before '?' token
+     XGpio_DiscreteWrite(&???, 1, ????);
+                          ^
+../lab_gpio_in_out.c:87:29: warning: left-hand operand of comma expression has no effect [-Wunused-value]
+     XGpio_DiscreteWrite(&???, 1, ????);
+                             ^
+../lab_gpio_in_out.c:87:36: warning: trigraph ??) ignored, use -trigraphs to enable [-Wtrigraphs]
+     XGpio_DiscreteWrite(&???, 1, ????);
+                                     
+../lab_gpio_in_out.c:87:32: warning: left-hand operand of comma expression has no effect [-Wunused-value]
+     XGpio_DiscreteWrite(&???, 1, ????);
+                                ^
+../lab_gpio_in_out.c:87:5: error: too few arguments to function 'XGpio_DiscreteWrite'
+     XGpio_DiscreteWrite(&???, 1, ????);
+     ^~~~~~~~~~~~~~~~~~~
+In file included from ../lab_gpio_in_out.c:29:0:
+../../lab_gpio_inout_sdk_bsp/ps7_cortexa9_0/include/xgpio.h:180:6: note: declared here
+ void XGpio_DiscreteWrite(XGpio *InstancePtr, unsigned Channel, u32 Mask);
+      ^~~~~~~~~~~~~~~~~~~
+../lab_gpio_in_out.c:94:14: error: expected expression before '?' token
+           if(???? == 0xFF)
+              ^
+../lab_gpio_in_out.c:94:11: warning: this 'if' clause does not guard... [-Wmisleading-indentation]
+           if(???? == 0xFF)
+           ^~
+../lab_gpio_in_out.c:96:5: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the 'if'
+     for (i=0; i<9999999; i++); // delay loop
+     ^~~
+../lab_gpio_in_out.c:42:17: warning: unused variable 'GPIOInstance_Ptr' [-Wunused-variable]
+    static XGpio GPIOInstance_Ptr;
+                 ^~~~~~~~~~~~~~~~
+../lab_gpio_in_out.c:41:23: warning: variable 'sw_check' set but not used [-Wunused-but-set-variable]
+    int i, pshb_check, sw_check;
+                       ^~~~~~~~
+../lab_gpio_in_out.c:40:17: warning: unused variable 'led' [-Wunused-variable]
+       XGpio sw, led;
+                 ^~~
+At top level:
+../lab_gpio_in_out.c:42:17: warning: 'GPIOInstance_Ptr' defined but not used [-Wunused-variable]
+    static XGpio GPIOInstance_Ptr;
+                 ^~~~~~~~~~~~~~~~
+make: *** [subdir.mk:20: lab_gpio_in_out.o] Error 1
+16:32:33 **** Auto Build of configuration Debug for project lab_gpio_inout_sdk ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../lab_gpio_in_out.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"lab_gpio_in_out.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../lab_gpio_inout_sdk_bsp/ps7_cortexa9_0/include -MMD -MP -MF"lab_gpio_in_out.d" -MT"lab_gpio_in_out.o" -o "lab_gpio_in_out.o" "../lab_gpio_in_out.c"
+../lab_gpio_in_out.c: In function 'main':
+../lab_gpio_in_out.c:55:5: warning: trigraph ??( ignored, use -trigraphs to enable [-Wtrigraphs]
+    ???(&???, XPAR_BOARD_LEDS_8B_DEVICE_ID);
+      
+../lab_gpio_in_out.c:55:4: error: expected expression before '?' token
+    ???(&???, XPAR_BOARD_LEDS_8B_DEVICE_ID);
+    ^
+../lab_gpio_in_out.c:55:12: warning: left-hand operand of comma expression has no effect [-Wunused-value]
+    ???(&???, XPAR_BOARD_LEDS_8B_DEVICE_ID);
+            ^
+../lab_gpio_in_out.c:85:36: error: expected expression before '?' token
+     sw_check = XGpio_DiscreteRead(&???, 1);
+                                    ^
+../lab_gpio_in_out.c:85:39: warning: left-hand operand of comma expression has no effect [-Wunused-value]
+     sw_check = XGpio_DiscreteRead(&???, 1);
+                                       ^
+../lab_gpio_in_out.c:85:16: error: too few arguments to function 'XGpio_DiscreteRead'
+     sw_check = XGpio_DiscreteRead(&???, 1);
+                ^~~~~~~~~~~~~~~~~~
+In file included from ../lab_gpio_in_out.c:29:0:
+../../lab_gpio_inout_sdk_bsp/ps7_cortexa9_0/include/xgpio.h:179:5: note: declared here
+ u32 XGpio_DiscreteRead(XGpio *InstancePtr, unsigned Channel);
+     ^~~~~~~~~~~~~~~~~~
+../lab_gpio_in_out.c:87:26: error: expected expression before '?' token
+     XGpio_DiscreteWrite(&???, 1, ????);
+                          ^
+../lab_gpio_in_out.c:87:29: warning: left-hand operand of comma expression has no effect [-Wunused-value]
+     XGpio_DiscreteWrite(&???, 1, ????);
+                             ^
+../lab_gpio_in_out.c:87:36: warning: trigraph ??) ignored, use -trigraphs to enable [-Wtrigraphs]
+     XGpio_DiscreteWrite(&???, 1, ????);
+                                     
+../lab_gpio_in_out.c:87:32: warning: left-hand operand of comma expression has no effect [-Wunused-value]
+     XGpio_DiscreteWrite(&???, 1, ????);
+                                ^
+../lab_gpio_in_out.c:87:5: error: too few arguments to function 'XGpio_DiscreteWrite'
+     XGpio_DiscreteWrite(&???, 1, ????);
+     ^~~~~~~~~~~~~~~~~~~
+In file included from ../lab_gpio_in_out.c:29:0:
+../../lab_gpio_inout_sdk_bsp/ps7_cortexa9_0/include/xgpio.h:180:6: note: declared here
+ void XGpio_DiscreteWrite(XGpio *InstancePtr, unsigned Channel, u32 Mask);
+      ^~~~~~~~~~~~~~~~~~~
+../lab_gpio_in_out.c:94:14: error: expected expression before '?' token
+           if(???? == 0xFF)
+              ^
+../lab_gpio_in_out.c:94:11: warning: this 'if' clause does not guard... [-Wmisleading-indentation]
+           if(???? == 0xFF)
+           ^~
+../lab_gpio_in_out.c:96:5: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the 'if'
+     for (i=0; i<9999999; i++); // delay loop
+     ^~~
+../lab_gpio_in_out.c:42:17: warning: unused variable 'GPIOInstance_Ptr' [-Wunused-variable]
+    static XGpio GPIOInstance_Ptr;
+                 ^~~~~~~~~~~~~~~~
+../lab_gpio_in_out.c:41:23: warning: variable 'sw_check' set but not used [-Wunused-but-set-variable]
+    int i, pshb_check, sw_check;
+                       ^~~~~~~~
+../lab_gpio_in_out.c:40:17: warning: unused variable 'led' [-Wunused-variable]
+       XGpio sw, led;
+                 ^~~
+At top level:
+../lab_gpio_in_out.c:42:17: warning: 'GPIOInstance_Ptr' defined but not used [-Wunused-variable]
+    static XGpio GPIOInstance_Ptr;
+                 ^~~~~~~~~~~~~~~~
+make: *** [subdir.mk:20: lab_gpio_in_out.o] Error 1
+16:32:53 **** Auto Build of configuration Debug for project lab_gpio_inout_sdk ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../lab_gpio_in_out.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"lab_gpio_in_out.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../lab_gpio_inout_sdk_bsp/ps7_cortexa9_0/include -MMD -MP -MF"lab_gpio_in_out.d" -MT"lab_gpio_in_out.o" -o "lab_gpio_in_out.o" "../lab_gpio_in_out.c"
+../lab_gpio_in_out.c: In function 'main':
+../lab_gpio_in_out.c:85:36: error: expected expression before '?' token
+     sw_check = XGpio_DiscreteRead(&???, 1);
+                                    ^
+../lab_gpio_in_out.c:85:39: warning: left-hand operand of comma expression has no effect [-Wunused-value]
+     sw_check = XGpio_DiscreteRead(&???, 1);
+                                       ^
+../lab_gpio_in_out.c:85:16: error: too few arguments to function 'XGpio_DiscreteRead'
+     sw_check = XGpio_DiscreteRead(&???, 1);
+                ^~~~~~~~~~~~~~~~~~
+In file included from ../lab_gpio_in_out.c:29:0:
+../../lab_gpio_inout_sdk_bsp/ps7_cortexa9_0/include/xgpio.h:179:5: note: declared here
+ u32 XGpio_DiscreteRead(XGpio *InstancePtr, unsigned Channel);
+     ^~~~~~~~~~~~~~~~~~
+../lab_gpio_in_out.c:87:26: error: expected expression before '?' token
+     XGpio_DiscreteWrite(&???, 1, ????);
+                          ^
+../lab_gpio_in_out.c:87:29: warning: left-hand operand of comma expression has no effect [-Wunused-value]
+     XGpio_DiscreteWrite(&???, 1, ????);
+                             ^
+../lab_gpio_in_out.c:87:36: warning: trigraph ??) ignored, use -trigraphs to enable [-Wtrigraphs]
+     XGpio_DiscreteWrite(&???, 1, ????);
+                                     
+../lab_gpio_in_out.c:87:32: warning: left-hand operand of comma expression has no effect [-Wunused-value]
+     XGpio_DiscreteWrite(&???, 1, ????);
+                                ^
+../lab_gpio_in_out.c:87:5: error: too few arguments to function 'XGpio_DiscreteWrite'
+     XGpio_DiscreteWrite(&???, 1, ????);
+     ^~~~~~~~~~~~~~~~~~~
+In file included from ../lab_gpio_in_out.c:29:0:
+../../lab_gpio_inout_sdk_bsp/ps7_cortexa9_0/include/xgpio.h:180:6: note: declared here
+ void XGpio_DiscreteWrite(XGpio *InstancePtr, unsigned Channel, u32 Mask);
+      ^~~~~~~~~~~~~~~~~~~
+../lab_gpio_in_out.c:94:14: error: expected expression before '?' token
+           if(???? == 0xFF)
+              ^
+../lab_gpio_in_out.c:94:11: warning: this 'if' clause does not guard... [-Wmisleading-indentation]
+           if(???? == 0xFF)
+           ^~
+../lab_gpio_in_out.c:96:5: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the 'if'
+     for (i=0; i<9999999; i++); // delay loop
+     ^~~
+../lab_gpio_in_out.c:42:17: warning: unused variable 'GPIOInstance_Ptr' [-Wunused-variable]
+    static XGpio GPIOInstance_Ptr;
+                 ^~~~~~~~~~~~~~~~
+../lab_gpio_in_out.c:41:23: warning: variable 'sw_check' set but not used [-Wunused-but-set-variable]
+    int i, pshb_check, sw_check;
+                       ^~~~~~~~
+At top level:
+../lab_gpio_in_out.c:42:17: warning: 'GPIOInstance_Ptr' defined but not used [-Wunused-variable]
+    static XGpio GPIOInstance_Ptr;
+                 ^~~~~~~~~~~~~~~~
+make: *** [subdir.mk:20: lab_gpio_in_out.o] Error 1
+16:34:59 **** Auto Build of configuration Debug for project lab_gpio_inout_sdk ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../lab_gpio_in_out.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"lab_gpio_in_out.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../lab_gpio_inout_sdk_bsp/ps7_cortexa9_0/include -MMD -MP -MF"lab_gpio_in_out.d" -MT"lab_gpio_in_out.o" -o "lab_gpio_in_out.o" "../lab_gpio_in_out.c"
+../lab_gpio_in_out.c: In function 'main':
+../lab_gpio_in_out.c:94:14: error: expected expression before '?' token
+           if(???? == 0xFF)
+              ^
+../lab_gpio_in_out.c:94:11: warning: this 'if' clause does not guard... [-Wmisleading-indentation]
+           if(???? == 0xFF)
+           ^~
+../lab_gpio_in_out.c:96:5: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the 'if'
+     for (i=0; i<9999999; i++); // delay loop
+     ^~~
+../lab_gpio_in_out.c:42:17: warning: unused variable 'GPIOInstance_Ptr' [-Wunused-variable]
+    static XGpio GPIOInstance_Ptr;
+                 ^~~~~~~~~~~~~~~~
+At top level:
+../lab_gpio_in_out.c:42:17: warning: 'GPIOInstance_Ptr' defined but not used [-Wunused-variable]
+make: *** [subdir.mk:20: lab_gpio_in_out.o] Error 1
+16:35:15 **** Auto Build of configuration Debug for project lab_gpio_inout_sdk ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../lab_gpio_in_out.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"lab_gpio_in_out.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../lab_gpio_inout_sdk_bsp/ps7_cortexa9_0/include -MMD -MP -MF"lab_gpio_in_out.d" -MT"lab_gpio_in_out.o" -o "lab_gpio_in_out.o" "../lab_gpio_in_out.c"
+../lab_gpio_in_out.c: In function 'main':
+../lab_gpio_in_out.c:94:11: warning: this 'if' clause does not guard... [-Wmisleading-indentation]
+           if(sw_check == 0xFF)
+           ^~
+../lab_gpio_in_out.c:96:5: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the 'if'
+     for (i=0; i<9999999; i++); // delay loop
+     ^~~
+../lab_gpio_in_out.c:42:17: warning: unused variable 'GPIOInstance_Ptr' [-Wunused-variable]
+    static XGpio GPIOInstance_Ptr;
+                 ^~~~~~~~~~~~~~~~
+At top level:
+../lab_gpio_in_out.c:42:17: warning: 'GPIOInstance_Ptr' defined but not used [-Wunused-variable]
+'Finished building: ../lab_gpio_in_out.c'
+' '
+'Building target: lab_gpio_inout_sdk.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../lab_gpio_inout_sdk_bsp/ps7_cortexa9_0/lib -o "lab_gpio_inout_sdk.elf"  ./lab_gpio_in_out.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: lab_gpio_inout_sdk.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size lab_gpio_inout_sdk.elf  |tee "lab_gpio_inout_sdk.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  30716	   1192	  22632	  54540	   d50c	lab_gpio_inout_sdk.elf
+'Finished building: lab_gpio_inout_sdk.elf.size'
+' '

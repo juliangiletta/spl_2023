@@ -1,0 +1,5 @@
+vhdl xil_defaultlib  \
+"../../../bd/rtos_example/ip/rtos_example_axi_gpio_0_0/sim/rtos_example_axi_gpio_0_0.vhd" \
+"../../../bd/rtos_example/ip/rtos_example_rst_ps7_0_100M_0/sim/rtos_example_rst_ps7_0_100M_0.vhd" \
+
+nosort
